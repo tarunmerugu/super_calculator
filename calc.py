@@ -6,6 +6,8 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
+def subtract2(a: float, b: float):
+    return a - b
 
 def multiply(a, b):
     return a * b
